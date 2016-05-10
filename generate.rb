@@ -2,7 +2,7 @@
 
 require 'csv'
 
-# current as of July 2013
+# current as of January 2016
 fare_types = {
   "pub_aircon" => {
     "fare" => 12.00,
@@ -17,24 +17,10 @@ fare_types = {
     "limit" => 60
   },
   "puj" => {
-    "fare" => 7.50,
+    "fare" => 7.00,
     "firstkm" => 4,
     "perkm" => 1.5,
-    "limit" => 50,
-    "override" => {
-      10 => { "discounted" => '13.25' },
-      12 => { "discounted" => '15.50' },
-      14 => { "discounted" => '17.75' },
-      18 => { "discounted" => '22.25' },
-      20 => { "discounted" => '24.50' },
-      22 => { "discounted" => '26.75' },
-      33 => { "discounted" => '38.75' },
-      35 => { "discounted" => '41.25' },
-      37 => { "discounted" => '43.50' },
-      39 => { "discounted" => '45.75' },
-      45 => { "discounted" => '52.50' },
-      47 => { "discounted" => '54.75' }
-    }
+    "limit" => 50
   }
 }
 

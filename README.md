@@ -14,3 +14,4 @@ The included generator makes CSVs for PUJs and PUBs based on their standard form
  * http://www.dotcmrt3.gov.ph/guide.php
  * https://www.facebook.com/ANCalerts/posts/10152669038463791
  * http://www.pnr.gov.ph/getting-around/metro-commuter-line/fares-tickets
+ * http://www.gov.ph/2016/01/22/jeepney-fares-reduced/
