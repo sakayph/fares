@@ -2,7 +2,7 @@
 
 require 'csv'
 
-# current as of January 2016
+# current as of February 2017
 fare_types = {
   "pub_aircon" => {
     "fare" => 12.00,
@@ -17,7 +17,7 @@ fare_types = {
     "limit" => 60
   },
   "puj" => {
-    "fare" => 7.00,
+    "fare" => 8.00,
     "firstkm" => 4,
     "perkm" => 1.5,
     "limit" => 50
